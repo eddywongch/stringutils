@@ -1,3 +1,3 @@
-module github.com/ewong/stringutils
+module github.com/eddywongch/stringutils
 
 go 1.14
