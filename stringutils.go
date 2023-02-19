@@ -11,6 +11,3 @@ func Upper(s string) string {
 func Lower(s string) string {
 	return strings.ToLower(s)
 }
-
-
-
